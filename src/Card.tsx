@@ -1,5 +1,5 @@
-//importing the css styles to card
-import './Card.css'
+//importing the css styles
+import './styles.css'
 
 //creating a prop for the text so I can have a different text on each card
 type Props = {

@@ -1,3 +1,6 @@
+//importing the css styles
+import './styles.css'
+
 const Button = ()=>{
     //styling the button
     const styles = {
@@ -5,7 +8,7 @@ const Button = ()=>{
         borderRadius: '10px',
         height: '40px',
         width: '200px',
-        color: 'white'
+        color: 'white',
     }
     return (
         //returning a button with the styles above

@@ -9,3 +9,14 @@
     width: 150px;
     color: black;
 }
+
+.cards {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+}

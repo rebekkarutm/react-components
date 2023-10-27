@@ -1,0 +1,11 @@
+/*styling the card*/
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #CDD2FF;
+    border-radius: 10px;
+    height: 100px;
+    width: 150px;
+    color: black;
+}

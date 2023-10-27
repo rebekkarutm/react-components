@@ -8,7 +8,7 @@ type Props = {
 
 const Card = ({text}:Props)=>{
     return (
-        //giving the div a classname so I can style it in css
+        //giving the div a class name so I can style it in css
         <>
         <div className='card'>{text}</div>
         </>

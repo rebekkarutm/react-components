@@ -4,7 +4,7 @@ import Button from './Button'
 
 function App() {
   return (
-    //returning two cards with a break in between as well as one button
+    //returning two cards with space in between as well as a button
     <>
       <Card text='Hello World'/>
       <br></br>
